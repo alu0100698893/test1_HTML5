@@ -3,7 +3,7 @@
 function mensaje() {
 
   // error, success, info, warning
-  toastr.error('Aquí el mensaje de texto.', 'Título de notificación');
+  toastr.info('Aquí el mensaje de texto.', 'Título de notificación');
 
   toastr.options = {
     closeButton: true,
