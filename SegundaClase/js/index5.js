@@ -1,3 +1,5 @@
+$(document).ready(function() {
+
 // Función de ventana de alerta
 function mensaje() {
 
@@ -12,3 +14,4 @@ function mensaje() {
     timeOut: 2000,
   }
 }
+});
