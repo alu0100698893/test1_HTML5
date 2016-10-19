@@ -7,9 +7,9 @@ $(document).ready(function(){
     handler: function(direction) {
       console.log('¡Has pasado por aquí!');
       if (direction == 'down') {
-        console.log('¡Hacia abajo!');
+        console.log('¡Hacia abajo!'); //esto nos enseaña el mensaje por consola
         this.destroy();
-        alert('Hacia abajo');
+        alert('Hacia abajo'); //nos muestra una alerta visual diciendo que hemos llegado
       }
     }
   });
