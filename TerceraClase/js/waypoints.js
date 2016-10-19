@@ -5,7 +5,11 @@ $(document).ready(function(){
     element: document.getElementById('tres'),
     // Función disparada
     handler: function(direction) {
-    alert('¡Has llegado!');
+      console.log('¡Has pasado por aquí!');
+      if (direction == 'down') {
+        console.log('¡Hacia abajo!');
+        this.destroy();
+      }
     }
   });
 });
