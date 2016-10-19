@@ -1,5 +1,6 @@
 $(document).ready(function(){
   $('.editor').trumbowyg({
+    svgPath: '/CURSO_HTML5_Avanz/PrimeraClase/TerceraClase/icons.svg'
     lang: 'es', // Idioma (es.min.js incluido)
     btns: [
           ['bold', 'italic', 'underline', 'strikethrough'],
