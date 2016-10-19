@@ -9,6 +9,7 @@ $(document).ready(function(){
       if (direction == 'down') {
         console.log('¡Hacia abajo!');
         this.destroy();
+        alert('Hacia abajo');
       }
     }
   });
