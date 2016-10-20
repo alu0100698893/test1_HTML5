@@ -1,6 +1,6 @@
 $(document).ready(function(){
   var PSV = PhotoSphereViewer({
-  panorama:  'http://farm8.staticflickr.com/7095/7394700302_6274c63929_o.jpg',
+  panorama:  'http://destinosa1.com/wp-content/uploads/2015/06/GRANC1.jpg',
   container: 'photosphere',
   loading_img: 'https://media.giphy.com/media/TtZqlvHid7BjW/giphy.gif',
   });
