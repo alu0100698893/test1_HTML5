@@ -1,8 +1,8 @@
 $(document).ready(function(){
   var data = {
-    labels: ['A1', 'A2', 'A3', 'A4', 'A5', 'A6'],
+    labels: ['CYA', 'LPP', 'IA', 'AEDA', 'GPI', 'SOA'],
     series: [{
-              data: [2, 4, 6, 8, 10, 12]
+              data: [20, 10, 8, 9, 1, 15]
             }]
   };
 
