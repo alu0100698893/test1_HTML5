@@ -1,5 +1,5 @@
 $(document).ready(function(){
-  var sample = 'Title: Esto es un título';
+  var sample = 'B-->C: Línea a rayas';
 
   var diagram = Diagram.parse(sample);
 
