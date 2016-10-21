@@ -6,3 +6,5 @@ $(document).ready(function(){
   });
 
 });
+
+//se debe hacer con camara de fotos android 4.2
