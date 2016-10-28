@@ -15,3 +15,7 @@ h1,h3,h5{
   margin: auto;
   border: 5px solid #000;
 }
+
+#personaje{
+  color:blue;
+}
