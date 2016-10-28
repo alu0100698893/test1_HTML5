@@ -8,3 +8,10 @@ h1{
   color: red;
   font-family: 'Dancing Script', cursive;
 }
+
+p{
+  text-align: center;
+  top: 100px;
+  color: red;
+  font-family: 'Dancing Script', cursive;
+}
