@@ -2,14 +2,7 @@ body{
   background-color: #fff199;
 }
 
-h1{
-  text-align: center;
-  top: 100px;
-  color: red;
-  font-family: 'Dancing Script', cursive;
-}
-
-p{
+h1,h3{
   text-align: center;
   top: 100px;
   color: red;
