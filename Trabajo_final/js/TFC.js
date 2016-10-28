@@ -1,7 +1,8 @@
 window.addEventListener('DOMContentLoaded',function(){
-  impress().init();
+    impress().init();
+    $('.ba-slider').beforeAfter();
 });
 
-$(document).ready(function() {
+/*$(document).ready(function() {
   $('.ba-slider').beforeAfter();
-});
+});*/
