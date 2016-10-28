@@ -19,3 +19,10 @@ h1,h3,h5{
 #personaje{
   color:blue;
 }
+
+#localizacion{
+  position: absolute;
+  background-color: white;
+  bottom: 100px;
+  left:100px
+}
