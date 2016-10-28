@@ -11,6 +11,7 @@ h1,h3{
 
 .ba-slider{
   width: 600px;
+  height: 400px;
   margin: auto;
   border: 5px solid #000;
 }
