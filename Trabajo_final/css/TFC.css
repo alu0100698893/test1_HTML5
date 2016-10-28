@@ -15,3 +15,9 @@ p{
   color: red;
   font-family: 'Dancing Script', cursive;
 }
+
+.ba-slider{
+  width: 640px;
+  margin: auto;
+  border: 5px solid #000;
+}
